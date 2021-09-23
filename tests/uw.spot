@@ -1,0 +1,10 @@
+(a0 U a1) W b
+((a0 U a1) U a2) W b
+(((a0 U a1) U a2) U a3) W b
+((((a0 U a1) U a2) U a3) U a4) W b
+(((((a0 U a1) U a2) U a3) U a4) U a5) W b
+((((((a0 U a1) U a2) U a3) U a4) U a5) U a6) W b
+(((((((a0 U a1) U a2) U a3) U a4) U a5) U a6) U a7) W b
+((((((((a0 U a1) U a2) U a3) U a4) U a5) U a6) U a7) U a8) W b
+(((((((((a0 U a1) U a2) U a3) U a4) U a5) U a6) U a7) U a8) U a9) W b
+((((((((((a0 U a1) U a2) U a3) U a4) U a5) U a6) U a7) U a8) U a9) U a10) W b

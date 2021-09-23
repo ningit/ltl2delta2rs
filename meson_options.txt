@@ -1,0 +1,1 @@
+option('static-spot', type: 'boolean', description: 'link statically against Spot', value: false)

@@ -1,0 +1,7 @@
+---
+Language: Cpp
+BasedOnStyle: Mozilla
+IndentWidth: 1
+TabWidth: 1
+UseTab: ForIndentation
+AlwaysBreakAfterReturnType: TopLevelDefinitions

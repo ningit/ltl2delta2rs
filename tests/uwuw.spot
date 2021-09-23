@@ -1,0 +1,5 @@
+(a0 U b1) W a1
+(((a0 U b1) W a1) U b2) W a2
+(((((a0 U b1) W a1) U b2) W a2) U b3) W a3
+(((((((a0 U b1) W a1) U b2) W a2) U b3) W a3) U b4) W a4
+(((((((((a0 U b1) W a1) U b2) W a2) U b3) W a3) U b4) W a4) U b5) W a5
